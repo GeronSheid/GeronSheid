@@ -15,10 +15,4 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@GeronSheid)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=GeronSheid&icon=2&color=8)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
