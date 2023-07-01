@@ -12,7 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeronSheid&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeronSheid&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@GeronSheid)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
