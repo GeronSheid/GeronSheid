@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my React, TS and Redux Toolkit pet-project.<br>🌱 I’m currently learning TypeScript and React + Redux.<br>🤝 Big camping fan, also love tabletop games.<br>💬 Ask me about everything you want :)
+🔭 I’m currently working in education project for children.<br>🌱 I’m currently learning Nest.js and React optimization.<br>🤝 Big camping fan, also love tabletop games.<br>💬 Ask me about everything you want :)
 
 
 ## 🌐 Socials:
